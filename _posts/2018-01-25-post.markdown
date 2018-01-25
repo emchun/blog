@@ -1,1 +1,9 @@
+---
+title: "AIGA Eye on Design"
+description: "AIGA's design blog"
+---
 
+AIGA Eye on design
+https://eyeondesign.aiga.org
+
+[AIGA Eye on Design] (https://eyeondesign.aiga.org/)
