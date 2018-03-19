@@ -1,8 +1,7 @@
 ---
-title: "AIGA Eye on Design"
-description: "Why London"
+title: "Design in London"
+description: "What makes England’s capital such a rad place for designers to live and work?"
 ---
 
-Text here.
-
-[original post] (https://eyeondesign.aiga.org/city-guides/london/why-london/)
+Interesting article on the graphic design industry in London on
+[AIGA Eye on Design](https://eyeondesign.aiga.org/city-guides/london/why-london/).
