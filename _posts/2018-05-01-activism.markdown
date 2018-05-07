@@ -4,6 +4,6 @@ description: "AIGA Eye on Design article about design for activism"
 ---
 
 
-I thought this article raised some interesting ways that we can use design for activism, for example, the importance of using design to tie into the values of a group.
+I thought this article raised some interesting ways that we can use design for activism, for example, being able to tie a design perspective into highlighting the values of a group.
 
 <a href="https://eyeondesign.aiga.org/designs-role-in-activism-can-go-deeper-than-posters-and-t-shirts/"> AIGA Eye on Design Article </a>
