@@ -1,0 +1,8 @@
+---
+title: "Facebook Data"
+description: "New York Times article about the amount of personal information collected by researchers"
+---
+
+I thought this article did a good job of bringing up all the different places that can collect data about someone, which has become an increasingly divisive issue in the past few months, also due to the Cambridge Analytica scandal recently.
+
+<a href="https://www.nytimes.com/2018/05/06/technology/facebook-information-data-sets-academics.html?rref=collection%2Fsectioncollection%2Ftechnology"> New York Times Article </a>
