@@ -1,0 +1,10 @@
+---
+title: "Netflix"
+description: "Techly article about Netflix's original font"
+---
+
+
+Although the typeface that Netflix uses is instantly recognizable, this article talks about how they had their own designer create a new font instead of paying the licensing fees for Gotham. I thought this was interesting because I never really realized how expensive certain fonts could be and the debate about that issue.
+
+
+<a href="https://www.techly.com.au/2018/04/08/new-typeface-will-save-netflix-millions-dollars-year/"> Techly Article </a>
