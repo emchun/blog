@@ -88,3 +88,18 @@ color: #222;
     text-align: center;
     margin: 5em;
 }
+
+.home-link {
+	background-color: rgb(255, 255, 255, 0.9);
+    padding: 1em;
+    text-align: left;
+}
+
+.head {
+    text-align: center;
+    color: rgb(0, 0, 128);
+}
+
+.center {
+	text-align: center;
+}
