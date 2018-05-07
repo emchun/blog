@@ -1,0 +1,10 @@
+---
+title: "London Tube Map"
+description: "BBC article about the design behind London Tube maps"
+---
+
+
+I studied abroad in London last semester, so I found this interesting article when looking up information about the design of the London Tube map, created in the 1930s and influencing map design around the world. The design was able to take complicated information and make it accessible and easy to understand.
+
+
+<a href="http://www.bbc.com/culture/story/20150720-the-london-underground-map-the-esign-that-shaped-a-city"> Article from BBC </a>
