@@ -1,6 +1,6 @@
 ---
-title: "Paula Scher interview"
-description: "The Great Discontent article"
+title: "Paula Scher Interview"
+description: "The Great Discontent interview with Paula Scher"
 ---
 
 
