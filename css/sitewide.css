@@ -92,14 +92,10 @@ color: #222;
 .home-link {
 	background-color: rgb(255, 255, 255, 0.9);
     padding: 1em;
-    text-align: left;
+    text-align: center;
 }
 
 .head {
     text-align: center;
     color: rgb(0, 0, 128);
-}
-
-.center {
-	text-align: center;
 }
