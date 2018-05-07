@@ -3,7 +3,7 @@ title: "The Internet and Privacy"
 description: "New York Times article about Facebook, Google, and internet privacy"
 ---
 
-I thought this <em>New York Times<em> article was interesting because it dealt with what may happen after the Cambridge Analytica scandal. The article mentions that people are feeling less willing to give up information about themselves in order to browse the internet freely, a  tradeoff that has been the standard for a long time. The article raised questions about how this will play out in the next few years, and if we will maybe see more regulations on data collection in the future.
+I thought this New York Times article was interesting because it dealt with what may happen after the Cambridge Analytica scandal. The article mentions that people are feeling less willing to give up information about themselves in order to browse the internet freely, a  tradeoff that has been the standard for a long time. The article raised questions about how this will play out in the next few years, and if we will maybe see more regulations on data collection in the future.
 
 
 <a href="https://www.nytimes.com/2018/03/24/technology/google-facebook-data-privacy.html?rref=collection%2Fsectioncollection%2Ftechnology"> Interview from The New York Times </a>
