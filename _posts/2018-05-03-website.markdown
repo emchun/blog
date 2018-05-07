@@ -1,0 +1,8 @@
+---
+title: "Website Design"
+description: "Seattle Space Needle website design"
+---
+
+I also found this article while looking for websites that had interesting scrolling methods and use of images. The website is very user-friendly and uses images and animations in a very original way.
+
+<a href="https://www.spaceneedle.com/home/"> Seattle Space Needle Website </a>
