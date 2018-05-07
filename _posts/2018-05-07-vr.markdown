@@ -1,0 +1,10 @@
+---
+title: "How Virtual Reality can Teach Empathy"
+description: "TechCrunch article about using VR and social media to teach empathy"
+---
+
+
+While VR has become a big trend lately, I thought this article highlighed how it can be used in an interesting way. The article talks about how companies like Amazon can use VR simulators like Mursion to practice having difficult conversations with employees, and learn how to understand someone else's situation and respond appropriately.
+
+
+<a href="https://techcrunch.com/2018/04/22/empathy-technologies-like-vr-ar-and-social-media-can-transform-education/"> Article from TechCrunch </a>
