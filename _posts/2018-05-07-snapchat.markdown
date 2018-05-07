@@ -1,0 +1,10 @@
+---
+title: "Snapchat"
+description: "New York Times article about Snapchat's redesign"
+---
+
+
+I thought that this article was interesting because it shows how Snapchat's redesign actually caused their earnings to fall, showing how app design and making the app user-friendly are both extremely important.
+
+
+<a href="https://www.nytimes.com/2018/05/01/technology/snapchat-redesign-snap-earnings.html?rref=collection%2Fsectioncollection%2Ftechnology"> New York Times Article </a>
