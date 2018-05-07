@@ -1,0 +1,9 @@
+---
+title: "Google"
+description: "The Atlantic article about Google's typography"
+---
+
+This article covers some of the typography history behind the unique "g" in Google's logo, which I thought it was intersting that the letter was specifically designed to look modern but with a "old-fashioned" authority as well.
+
+
+<a href="https://www.theatlantic.com/technology/archive/2018/04/lowercase-g/557504/"> The Atlantic Article </a>
