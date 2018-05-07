@@ -1,0 +1,10 @@
+---
+title: "Alexa"
+description: "New York Times article about using Alexa for the blind"
+---
+
+
+I thought that this article was interesting because it showed how new technology - like Alexa - can have benefits for people with disabilites that we might not even realize.
+
+
+<a href="https://www.theatlantic.com/magazine/archive/2018/05/what-alexa-taught-my-father/556874/"> The Atlantic Article </a>
